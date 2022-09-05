@@ -70,3 +70,4 @@ Moteriz = Modeler
 Pantantoer = Pan
 Jakano = Soap
 Kekora = The
+Amor = Crush
