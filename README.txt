@@ -15,6 +15,7 @@ Moqet = Made
 Fik = Dead
 Fikky = Death
 Fikker = Killer
+Fikkie = Died
 Fikkied = Died
 Utanza = Hello
 Yunarza = Stripe
