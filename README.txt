@@ -69,3 +69,4 @@ Moterix = Model
 Moteriz = Modeler
 Pantantoer = Pan
 Jakano = Soap
+Kekora = The
