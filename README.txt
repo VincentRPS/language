@@ -28,6 +28,7 @@ Iuna = Six
 Ouna = Seven
 Puna = Eight
 Yuna = Nine
+Quna = Ten
 Guz = Teen
 
 so, numbers would be like:
